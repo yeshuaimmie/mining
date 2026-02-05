@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.mukungwemining.com/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sell & Buy Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#sell-buy</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About Us Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#about</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Gallery Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#gallery</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#services</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Licenses Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#licenses-tools</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Projects Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#projects</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Get Quote Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#quote</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Us Section -->
+  <url>
+    <loc>https://www.mukungwemining.com/#contact</loc>
+    <lastmod>2026-02-05</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
